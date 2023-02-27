@@ -1,0 +1,133 @@
+[
+    {
+    "title": "Pizza Order App",
+    "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383434/cld-sample-5.jpg",
+    "description": "A project with user authentication that allows users to login logout,and register , track their orders Home Page | Cart Feature | Payment Feature | Signin , SignUp | Logout | Tracking Feature",
+    "technologies": "HTML | CSS | JAVASCRIPT | NODE | EXPRESS | MONGODB | SASS",
+    "link": "#",
+    "github": "https://github.com/Mohammad-Mubarak/RealtimePizzaProject"
+    },
+    {
+    "id": 2,
+    "title": "Yoo",
+    "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383433/cld-sample-3.jpg",
+    "description": "React YouTube Search is a web application that allows users to search for videos on YouTube using the YouTube API.",
+    "technologies": "REACT | JAVASCRIPT | CSS",
+    "link": "#",
+    "github": "https://github.com/Mohammad-Mubarak/MyTube"
+    },
+    {
+    "id": 3,
+    "title": "Ecommerce DashBoard",
+    "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383432/cld-sample.jpg",
+    "description": "Developed an e-commerce dashboard using React with features including user authentication, product management, and CRUD operations (Create, Read, Update, Delete). ",
+    "technologies": "REACT | NODE | EXPRESS | MONGODB | CSS | HTML ",
+    "link": "https://md-mubarak.netlify.app/",
+    "github": "https://github.com/Mohammad-Mubarak/DashBoard-Project"
+    },
+    {
+    "id": 4,
+    "title": "Uber Backend (SpringBoot) ",
+    "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383409/sample.jpg",
+    "description": "I created a ride-hailing system like Uber with five entities: Admin, Customer, Driver, Cab, and TripBooking. The system offers dependable and efficient service while preserving the privacy of customer and driver data. It allows customers to book and cancel trips, assigns drivers and cabs, updates cab status, and stores trip information.",
+    "technologies": " ",
+    "link": "https://github.com/acciojob/uber-Mohammad-Mubarak",
+    "github": "https://github.com/acciojob/uber-Mohammad-Mubarak"
+    },
+    {
+    "id": 5,
+    "title": "Blogs Application Backend ",
+    "img": "porject5",
+    "description": "Create a blog web app with user accounts, enabling blog creation, update, and deletion, image management, and password change. Implement screen size image count feature. ",
+    "technologies": "SpringBoot, Spring",
+    "link": "https://github.com/acciojob/blogs-Mohammad-Mubarak",
+    "github": "https://github.com/acciojob/blogs-Mohammad-Mubarak"
+    },{
+        "title": "Pizza Order App",
+        "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383434/cld-sample-5.jpg",
+        "description": "A project with user authentication that allows users to login logout,and register , track their orders Home Page | Cart Feature | Payment Feature | Signin , SignUp | Logout | Tracking Feature",
+        "technologies": "HTML | CSS | JAVASCRIPT | NODE | EXPRESS | MONGODB | SASS",
+        "link": "#",
+        "github": "https://github.com/Mohammad-Mubarak/RealtimePizzaProject"
+        },
+        {
+        "id": 2,
+        "title": "Yoo",
+        "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383433/cld-sample-3.jpg",
+        "description": "React YouTube Search is a web application that allows users to search for videos on YouTube using the YouTube API.",
+        "technologies": "REACT | JAVASCRIPT | CSS",
+        "link": "#",
+        "github": "https://github.com/Mohammad-Mubarak/MyTube"
+        },
+        {
+        "id": 3,
+        "title": "Ecommerce DashBoard",
+        "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383432/cld-sample.jpg",
+        "description": "Developed an e-commerce dashboard using React with features including user authentication, product management, and CRUD operations (Create, Read, Update, Delete). ",
+        "technologies": "REACT | NODE | EXPRESS | MONGODB | CSS | HTML ",
+        "link": "https://md-mubarak.netlify.app/",
+        "github": "https://github.com/Mohammad-Mubarak/DashBoard-Project"
+        },
+        {
+        "id": 4,
+        "title": "Uber Backend (SpringBoot) ",
+        "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383409/sample.jpg",
+        "description": "I created a ride-hailing system like Uber with five entities: Admin, Customer, Driver, Cab, and TripBooking. The system offers dependable and efficient service while preserving the privacy of customer and driver data. It allows customers to book and cancel trips, assigns drivers and cabs, updates cab status, and stores trip information.",
+        "technologies": " ",
+        "link": "https://github.com/acciojob/uber-Mohammad-Mubarak",
+        "github": "https://github.com/acciojob/uber-Mohammad-Mubarak"
+        },
+        {
+        "id": 5,
+        "title": "Blogs Application Backend ",
+        "img": "porject5",
+        "description": "Create a blog web app with user accounts, enabling blog creation, update, and deletion, image management, and password change. Implement screen size image count feature. ",
+        "technologies": "SpringBoot, Spring",
+        "link": "https://github.com/acciojob/blogs-Mohammad-Mubarak",
+        "github": "https://github.com/acciojob/blogs-Mohammad-Mubarak"
+        },
+        {
+            "title": "Pizza Order App",
+            "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383434/cld-sample-5.jpg",
+            "description": "A project with user authentication that allows users to login logout,and register , track their orders Home Page | Cart Feature | Payment Feature | Signin , SignUp | Logout | Tracking Feature",
+            "technologies": "HTML | CSS | JAVASCRIPT | NODE | EXPRESS | MONGODB | SASS",
+            "link": "#",
+            "github": "https://github.com/Mohammad-Mubarak/RealtimePizzaProject"
+            },
+            {
+            "id": 2,
+            "title": "Yoo",
+            "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383433/cld-sample-3.jpg",
+            "description": "React YouTube Search is a web application that allows users to search for videos on YouTube using the YouTube API.",
+            "technologies": "REACT | JAVASCRIPT | CSS",
+            "link": "#",
+            "github": "https://github.com/Mohammad-Mubarak/MyTube"
+            },
+            {
+            "id": 3,
+            "title": "Ecommerce DashBoard",
+            "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383432/cld-sample.jpg",
+            "description": "Developed an e-commerce dashboard using React with features including user authentication, product management, and CRUD operations (Create, Read, Update, Delete). ",
+            "technologies": "REACT | NODE | EXPRESS | MONGODB | CSS | HTML ",
+            "link": "https://md-mubarak.netlify.app/",
+            "github": "https://github.com/Mohammad-Mubarak/DashBoard-Project"
+            },
+            {
+            "id": 4,
+            "title": "Uber Backend (SpringBoot) ",
+            "img": "https://res.cloudinary.com/dromvfu7p/image/upload/v1674383409/sample.jpg",
+            "description": "I created a ride-hailing system like Uber with five entities: Admin, Customer, Driver, Cab, and TripBooking. The system offers dependable and efficient service while preserving the privacy of customer and driver data. It allows customers to book and cancel trips, assigns drivers and cabs, updates cab status, and stores trip information.",
+            "technologies": " ",
+            "link": "https://github.com/acciojob/uber-Mohammad-Mubarak",
+            "github": "https://github.com/acciojob/uber-Mohammad-Mubarak"
+            },
+            {
+            "id": 5,
+            "title": "Blogs Application Backend ",
+            "img": "porject5",
+            "description": "Create a blog web app with user accounts, enabling blog creation, update, and deletion, image management, and password change. Implement screen size image count feature. ",
+            "technologies": "SpringBoot, Spring",
+            "link": "https://github.com/acciojob/blogs-Mohammad-Mubarak",
+            "github": "https://github.com/acciojob/blogs-Mohammad-Mubarak"
+            }
+    ]
